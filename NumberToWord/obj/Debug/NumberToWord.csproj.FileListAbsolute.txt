@@ -6,3 +6,11 @@ E:\TRAIN\GitHub\NumberToWord\NumberToWord\obj\Debug\NumberToWord.Properties.Reso
 E:\TRAIN\GitHub\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csproj.GenerateResource.Cache
 E:\TRAIN\GitHub\NumberToWord\NumberToWord\obj\Debug\NumberToWord.exe
 E:\TRAIN\GitHub\NumberToWord\NumberToWord\obj\Debug\NumberToWord.pdb
+E:\TRAIN\GitHub\ReadNumberToWord\NumberToWord\obj\Debug\NumberToWord.exe
+E:\TRAIN\GitHub\ReadNumberToWord\NumberToWord\obj\Debug\NumberToWord.pdb
+E:\TRAIN\GitHub\ReadNumberToWord\NumberToWord\obj\Debug\ResolveAssemblyReference.cache
+E:\TRAIN\GitHub\ReadNumberToWord\NumberToWord\obj\Debug\NumberToWord.Form1.resources
+E:\TRAIN\GitHub\ReadNumberToWord\NumberToWord\obj\Debug\NumberToWord.Properties.Resources.resources
+E:\TRAIN\GitHub\ReadNumberToWord\NumberToWord\obj\Debug\NumberToWord.csproj.GenerateResource.Cache
+E:\TRAIN\GitHub\ReadNumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+E:\TRAIN\GitHub\ReadNumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb

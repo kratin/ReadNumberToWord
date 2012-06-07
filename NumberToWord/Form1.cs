@@ -15,12 +15,32 @@ namespace NumberToWord
         {
             InitializeComponent();
         }
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
+        }
         private void button1_Click(object sender, EventArgs e)
         {
-            NumToThaiWord thaiWord = new NumToThaiWord();
+            IConvert thai = new NumToThaiWord();
+            IConvert eng = new NumToEngWord();
 
-            label1.Text = thaiWord.changeNumericToWords(textBox1.Text);
+            if (radioButton1.Checked)
+            {
+                label1.Text = readLetter(thai, textBox1.Text);
+            }
+            else
+            {
+                label1.Text = readLetter(eng, textBox1.Text);
+            }
+           
         }
+        //***** polymorphism ********//
+        private String readLetter(IConvert iConvert,String letter)
+        {
+            String word = iConvert.changeNumericToWords(letter);
+            return word;
+        }
+
+       
     }
 }

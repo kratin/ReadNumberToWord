@@ -5,7 +5,7 @@ using System.Text;
 
 namespace NumberToWord
 {
-    class NumToThaiWord
+    class NumToThaiWord : IConvert
     {
         public String changeNumericToWords(double numb)
         {
